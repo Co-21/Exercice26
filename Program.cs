@@ -1,5 +1,5 @@
 ﻿/**
- * Exercice26: conversion secondes
+ * Exercice26: conversion secondes / minutes / heures
  * Author: Emds
  * Date; 27/12/22
  */
